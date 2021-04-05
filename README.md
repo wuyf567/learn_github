@@ -1,2 +1,2 @@
 # learn_github
-学习使用GitHub
+项目描述
